@@ -55,8 +55,9 @@ git branch -M main
 git remote add origin YOUR_GITHUB_REPO_LINK
 git push -u origin main
 
+---
 
-🌍 Deploy on Vercel
+ ##🌍 Deploy on Vercel
 Open Vercel
 Login with GitHub
 Click "Add New Project"
@@ -65,20 +66,25 @@ Click Deploy
 
 Your website will go live instantly 🚀
 
-📱 Responsive Breakpoints
+---
+
+ ##📱 Responsive Breakpoints
 Desktop
 Laptop
 Tablet
 Mobile
 
-🎨 UI Highlights
+---
+
+##🎨 UI Highlights
 Premium Hero Layout
 Image Overlay Effects
 Booking Form Design
 Smooth Hover Effects
 Responsive Grid System
 
-<hr>
-📧 Author
+---
+
+##📧 Author
 
 Developed by Dhara Parekh
