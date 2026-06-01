@@ -1,24 +1,27 @@
-# 🌐 Hotel / Travel Website
+# 🌐 Mellow - Hotel & Travel Website
 
-Modern responsive hotel & travel website built using HTML, CSS, Bootstrap and custom animations.
+A modern and fully responsive hotel & travel website built using HTML5, CSS3, Bootstrap 5, and custom responsive layouts.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - Responsive Hero Section
+- Premium Hotel UI Design
 - Modern Booking Form
-- Bootstrap Layout
-- Smooth Animations
-- Fully Responsive Design
-- Mobile Friendly
-- Premium UI Layout
-- Optimized Images
-- Clean Code Structure
+- Check-In / Check-Out Form
+- Bootstrap Grid System
+- Mobile Friendly Layout
+- Smooth Hover Effects
+- Fully Responsive Images
+- Tablet Optimized Layout
+- Clean & Organized Code
+- Custom CSS Animations
+- Modern Typography
 
 ---
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 
 - HTML5
 - CSS3
@@ -28,63 +31,202 @@ Modern responsive hotel & travel website built using HTML, CSS, Bootstrap and cu
 
 ---
 
-## 📂 Project Structure
+# 📂 Folder Structure
 
+```plaintext
 project-folder/
 │
 ├── index.html
+│
 ├── assets/
-│ ├── css/
-│ ├── js/
-│ ├── images/
-│ └── fonts/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── bootstrap.min.css
+│   │
+│   ├── js/
+│   │   ├── script.js
+│   │   └── bootstrap.bundle.min.js
+│   │
+│   ├── images/
+│   │   ├── hero/
+│   │   ├── rooms/
+│   │   ├── gallery/
+│   │   └── booking/
+│   │
+│   └── icons/
+│
+└── README.md
+```
 
 ---
 
-## 🚀 Live Deployment on Vercel
+# 🚀 Getting Started
 
-### Step 1: Push Project to GitHub
+## 1️⃣ Clone Repository
 
-Initialize git:
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+---
+
+## 2️⃣ Open Project
+
+```bash
+cd project-folder
+```
+
+---
+
+## 3️⃣ Run Project
+
+Simply open:
+
+```plaintext
+index.html
+```
+
+in your browser.
+
+---
+
+# 🌍 Deploy Website on Vercel
+
+## Step 1: Push Project to GitHub
+
+Initialize Git:
 
 ```bash
 git init
+```
+
+Add Files:
+
+```bash
 git add .
+```
+
+Commit Files:
+
+```bash
 git commit -m "Initial Commit"
+```
+
+Connect GitHub Repository:
+
+```bash
 git branch -M main
-git remote add origin YOUR_GITHUB_REPO_LINK
+git remote add origin YOUR_GITHUB_REPOSITORY_LINK
 git push -u origin main
+```
 
 ---
 
- ##🌍 Deploy on Vercel
-Open Vercel
-Login with GitHub
-Click "Add New Project"
-Select your repository
-Click Deploy
+# 🚀 Deploy Using Vercel
 
-Your website will go live instantly 🚀
+## Open Website
+
+https://vercel.com/
 
 ---
 
- ##📱 Responsive Breakpoints
-Desktop
-Laptop
-Tablet
-Mobile
+## Steps
+
+1. Login with GitHub
+2. Click **Add New Project**
+3. Import your repository
+4. Click **Deploy**
 
 ---
 
-##🎨 UI Highlights
-Premium Hero Layout
-Image Overlay Effects
-Booking Form Design
-Smooth Hover Effects
-Responsive Grid System
+# ⚙️ Vercel Settings
+
+If your project is simple HTML/CSS:
+
+| Setting | Value |
+|---|---|
+| Framework Preset | Other |
+| Build Command | Leave Empty |
+| Output Directory | Leave Empty |
 
 ---
 
-##📧 Author
+# 📱 Responsive Design
 
-Developed by Dhara Parekh
+This website is fully optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+# 🎨 UI Highlights
+
+- Premium Hero Banner
+- Luxury Hotel Layout
+- Image + Content Split Section
+- Modern Check-In Form
+- Responsive Bootstrap Columns
+- Smooth Layout Scaling
+- Proper Image Cropping
+- Centered Form Layout
+- Optimized Mobile Experience
+
+---
+
+# 📸 Main Sections
+
+- Navbar
+- Hero Banner
+- Booking Form
+- About Section
+- Rooms Section
+- Gallery
+- Testimonials
+- Contact Section
+- Footer
+
+---
+
+# 💡 Responsive Improvements Included
+
+✅ Form properly centered  
+✅ Tablet layout fixed  
+✅ Proper image crop  
+✅ No content squeeze  
+✅ Premium desktop layout  
+✅ Full width mobile form  
+✅ Responsive Bootstrap grid  
+✅ Mobile optimized spacing  
+
+---
+
+# 📦 Dependencies
+
+Bootstrap CDN:
+
+```html
+<link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+```
+
+Bootstrap Icons:
+
+```html
+<link rel="stylesheet" href="./assets/css/bootstrap-icons.min.css">
+```
+
+---
+
+# 👩‍💻 Author
+
+Dhara Parekh
+
+---
+
+# 📄 License
+
+This project is for learning and personal use.
+
+---
